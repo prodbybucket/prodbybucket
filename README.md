@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ... PC Building, Data Hoarding, Self Hosting, HomeLabbing
 - 💞️ I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... Don't
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... <3
 
 <!---
